@@ -1,2 +1,2 @@
-# Calculadora-Black
-nesse codigo eu crie minha primiera black calculadora, ultilizando as segunites linguagens: HTML,CSS e JavaScript
+# Black Calculadora
+Black Calculadora é uma calculadora que foi feita utilizando HTML5, CSS3 e JavaScript.
